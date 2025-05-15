@@ -1,6 +1,6 @@
-import 'package:awesome_notifications/helper/display_message.dart';
-import 'package:awesome_notifications/service/auth/auth_service.dart';
-import 'package:awesome_notifications/view/login_page.dart';
+import 'package:flutter_firebase_template/helper/display_message.dart';
+import 'package:flutter_firebase_template/service/auth/auth_service.dart';
+import 'package:flutter_firebase_template/view/login_page.dart';
 import 'package:flutter/material.dart';
 
 class RegisterPage extends StatefulWidget {

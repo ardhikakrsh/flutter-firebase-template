@@ -1,4 +1,4 @@
-package com.example.awesome_notifications
+package com.example.flutter_firebase_template
 
 import io.flutter.embedding.android.FlutterActivity
 

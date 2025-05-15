@@ -1,16 +1,26 @@
-# awesome_notifications
+# flutter_firebase_template
 
 A new Flutter project.
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+1. Clone this repository
+2. `npm install -g firebase-tools`
+3. `firebase login`
+4. Create firebase project
+   - Go to the Firebase Console.
+   - Click on "Add project"
+   - Select default account for firebase
+5. Setup Firebase Auth
+   - Go to authentication
+   - Click get started
+   - Select email/password method
+   - Enable email/password
+6. `flutter pub global activate flutterfire_cli`
+7. `flutterfire configure`
 
-A few resources to get you started if this is your first Flutter project:
+   - Select your project that you've been create before in firebase
+   - Select platforms you needed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+8. `flutter pub add firebase_core`
+9. `flutter pub add firebase_auth`

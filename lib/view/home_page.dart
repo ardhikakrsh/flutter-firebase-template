@@ -1,4 +1,4 @@
-import 'package:awesome_notifications/components/my_drawer.dart';
+import 'package:flutter_firebase_template/components/my_drawer.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
