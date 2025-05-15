@@ -1,6 +1,8 @@
-# flutter_firebase_template
+# Flutter Firebase Template
 
-A new Flutter project.
+This is a Flutter + Firebase Authentication Template built to help you quickly get started with Firebase Auth integration in your Flutter apps. The project includes:
+- Email/Password authentication setup
+- Clean and simple UI for Welcome, Register, and Home pages
 
 ## How to use
 
@@ -24,3 +26,20 @@ A new Flutter project.
 
 8. `flutter pub add firebase_core`
 9. `flutter pub add firebase_auth`
+
+## 📱 Documentation
+<table>
+  <tr align="center">
+    <th>Welcome Page</th>
+    <th>Register Page</th>
+    <th>Home Page</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/84f56c92-b246-4948-b913-fecfdf15e39e" alt="Welcome Page" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/7ce208aa-35c9-466d-923a-4664c1675b29" alt="Register Page" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/80d7c14c-fe12-4295-b286-e5ed895d5da5" alt="Login Page" width="250"></td>
+</table>
+
+
+
+
