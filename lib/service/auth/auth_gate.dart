@@ -1,4 +1,4 @@
-import 'package:flutter_firebase_template/view/home_page.dart';
+import 'package:flutter_firebase_template/view/pages/home_page.dart';
 import 'package:flutter_firebase_template/service/auth/welcome_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
